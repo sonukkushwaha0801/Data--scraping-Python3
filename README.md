@@ -5,11 +5,15 @@
 1. BeautifulSoup
 <div align="left">
   <img src="https://images.prismic.io/oxylabs-sm/NWNiMmRiN2MtNzlkNC00OGIxLTg4NGUtZjZlMWY1ZWQ4NmMz_using-python-and-beautiful-soup-to-parse-data-intro-tutorial2x-3.png?auto=compress,format&rect=0,0,3113,1557&w=3113&h=1557&fm=webp&q=75" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="15" />
 </div>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
+    <label>
+      2. Requests
+    </label>
+  <img src="https://docs.python-requests.org/en/v2.0.0/_static/requests-sidebar.png" height="40" alt="Requests"  />
+  <img width="15" />
+</div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
