@@ -5,8 +5,8 @@
 1. 
 
 <div align="left">
-  <a href="[https://www.instagram.com/sonukkushwaha0801/](https://images.prismic.io/oxylabs-sm/NWNiMmRiN2MtNzlkNC00OGIxLTg4NGUtZjZlMWY1ZWQ4NmMz_using-python-and-beautiful-soup-to-parse-data-intro-tutorial2x-3.png?auto=compress,format&rect=0,0,3113,1557&w=3113&h=1557&fm=webp&q=75)" target="_blank">
-    <img src="[https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge](https://images.prismic.io/oxylabs-sm/NWNiMmRiN2MtNzlkNC00OGIxLTg4NGUtZjZlMWY1ZWQ4NmMz_using-python-and-beautiful-soup-to-parse-data-intro-tutorial2x-3.png?auto=compress,format&rect=0,0,3113,1557&w=3113&h=1557&fm=webp&q=75)" height="35" alt="instagram logo"  />
+  <a href="https://images.prismic.io/oxylabs-sm/NWNiMmRiN2MtNzlkNC00OGIxLTg4NGUtZjZlMWY1ZWQ4NmMz_using-python-and-beautiful-soup-to-parse-data-intro-tutorial2x-3.png?auto=compress,format&rect=0,0,3113,1557&w=3113&h=1557&fm=webp&q=75" target="_blank">
+    <img src="(https://images.prismic.io/oxylabs-sm/NWNiMmRiN2MtNzlkNC00OGIxLTg4NGUtZjZlMWY1ZWQ4NmMz_using-python-and-beautiful-soup-to-parse-data-intro-tutorial2x-3.png?auto=compress,format&rect=0,0,3113,1557&w=3113&h=1557&fm=webp&q=75" height="35" alt="BeautifulSoup"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/sonukkushwaha0801/" target="_blank">
